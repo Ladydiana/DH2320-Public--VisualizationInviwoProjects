@@ -9,3 +9,6 @@ Results (complete or incomplete) below.
 
 ## Lab 2: labtransformations
 ![alt text](https://github.com/Ladydiana/DH2320-Public--VisualizationInviwoProjects/blob/main/Figure%202.1%20-%20Output.PNG)
+
+## Lab 3: labsubdivision
+![alt text](https://github.com/Ladydiana/DH2320-Public--VisualizationInviwoProjects/blob/main/Figure%203.3%20-%20Chaikin.PNG)
