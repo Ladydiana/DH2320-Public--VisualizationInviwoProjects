@@ -1,6 +1,7 @@
 # DH2320 - Visualization Inviwo Projects
 
 Code files are on private branch.
+
 Results (complete or incomplete) below.
 
 ## Lab 1: labsetup
